@@ -1,0 +1,39 @@
+nav{
+    background-color: black;
+    height: 60px;
+}
+
+a{
+    color: white;
+}
+
+.first{
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.extralabel{
+    font-weight: bold;
+    background-color: lightgray;
+    font-size: 16px;  
+}
+
+.orangeBack{
+    background-color: orange;
+    height: 70px;
+}
+
+.column{
+    height: 200px;
+    width: 200px;
+}
+
+.something{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
